@@ -31,3 +31,7 @@ Run the attendance tests:
 ## Version Control
 Git is used to track changes, and GitHub is used
 to share the test scripts with the QA team.
+
+## Team Workflow
+All QA engineers should commit their changes
+and push them to the shared GitHub repository.
